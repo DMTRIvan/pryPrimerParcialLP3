@@ -1,0 +1,32 @@
+D:\Escritorio\SUELDOS\bin\Debug\SUELDOS.exe.config
+D:\Escritorio\SUELDOS\bin\Debug\SUELDOS.exe
+D:\Escritorio\SUELDOS\bin\Debug\SUELDOS.pdb
+D:\Escritorio\SUELDOS\obj\Debug\SUELDOS.csproj.AssemblyReference.cache
+D:\Escritorio\SUELDOS\obj\Debug\SUELDOS.Form1.resources
+D:\Escritorio\SUELDOS\obj\Debug\SUELDOS.Properties.Resources.resources
+D:\Escritorio\SUELDOS\obj\Debug\SUELDOS.csproj.GenerateResource.cache
+D:\Escritorio\SUELDOS\obj\Debug\SUELDOS.csproj.CoreCompileInputs.cache
+D:\Escritorio\SUELDOS\obj\Debug\SUELDOS.exe
+D:\Escritorio\SUELDOS\obj\Debug\SUELDOS.pdb
+C:\Users\Gustavo\Desktop\SUELDOS\bin\Debug\SUELDOS.exe.config
+C:\Users\Gustavo\Desktop\SUELDOS\bin\Debug\SUELDOS.exe
+C:\Users\Gustavo\Desktop\SUELDOS\bin\Debug\SUELDOS.pdb
+C:\Users\Gustavo\Desktop\SUELDOS\obj\Debug\SUELDOS.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\SUELDOS\obj\Debug\SUELDOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Desktop\SUELDOS\obj\Debug\SUELDOS.Form1.resources
+C:\Users\Gustavo\Desktop\SUELDOS\obj\Debug\SUELDOS.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\SUELDOS\obj\Debug\SUELDOS.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\SUELDOS\obj\Debug\SUELDOS.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\SUELDOS\obj\Debug\SUELDOS.exe
+C:\Users\Gustavo\Desktop\SUELDOS\obj\Debug\SUELDOS.pdb
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\bin\Debug\SUELDOS.exe.config
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\bin\Debug\SUELDOS.exe
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\bin\Debug\SUELDOS.pdb
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\obj\Debug\SUELDOS.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\obj\Debug\SUELDOS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\obj\Debug\SUELDOS.Form1.resources
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\obj\Debug\SUELDOS.Properties.Resources.resources
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\obj\Debug\SUELDOS.csproj.GenerateResource.cache
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\obj\Debug\SUELDOS.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\obj\Debug\SUELDOS.exe
+C:\Users\Gustavo\Documents\0,0) IVAN\4) Analista en sistemas IES\3) Tercer semestre\3.2) Laboratorio de programación 3\2) Segundo Parcial\14) Parcial\SUELDOS\obj\Debug\SUELDOS.pdb
